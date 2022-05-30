@@ -8,6 +8,8 @@
 
 **Matkul : Pemrograman Web** <br>
 
+link praktikum 10 : https://github.com/Rekahani/Lab10web
+
 ### Menjalankan MySQL Server
 
 Jalankan XAMPP dan aktifkan `apache` dsn `MySQL` lalu akses http://localhost/phpmyadmin/ untuk membuat database. Kemudian membuat folder baru dengan nama `lab9_php_modular` pada directory `C:\XAMPP\htdocs` Langkah berikutnya masukkan kode pada VSCODE lalu simpan dengan nama `header.php`
